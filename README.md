@@ -24,6 +24,8 @@ I build forecasting models, budgets, and dashboards that explain *why* the numbe
 ### [UPS vs FedEx: Valuation, Strategy & Forecasting](https://github.com/pritam-gattoju/ups-vs-fedex-valuation-forecasting)
 Equity research built from both companies' 10-Ks: a 15-sheet Excel DCF model (ratios, DuPont, CAPM WACC, reverse DCF, value drivers, strategy scenarios), an 8-page strategy report, a 10,000-run Monte Carlo valuation, ARIMA / gradient boosting / LSTM price forecasters, and a live Streamlit dashboard.
 
+**[▶ Open the live dashboard](https://pritam-ups-fedex-valuation.streamlit.app)**
+
 `Valuation` `DCF` `Financial Analysis` `Python` `Machine Learning` `Streamlit`
 
 ### [FY2027 Freight Cost Forecast & AOP Model](https://github.com/pritam-gattoju/freight-cost-forecast-aop)
